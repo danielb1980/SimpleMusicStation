@@ -1,0 +1,37 @@
+{
+  "id": "30ca9d69e9",
+  "name": "Test",
+  "created": "2026-09-28T12:42:07",
+  "updated": "2026-09-28T14:03:55",
+  "tracks": [
+    {
+      "id": "7e921bd0",
+      "name": "Queen_-_We_Will_Rock_You",
+      "type": "MP3",
+      "file": "215ddd12.mp3",
+      "volume": 1,
+      "segments": [
+        {
+          "id": "0a996e3d",
+          "file": "215ddd12.mp3",
+          "offset": 18.43575418994415
+        }
+      ]
+    },
+    {
+      "id": "cb3d2271",
+      "name": "Pista 2",
+      "type": "WAV",
+      "file": null,
+      "segments": [
+        {
+          "id": "f65a6542",
+          "file": "f65a6542.wav",
+          "offset": 8.207934336525307
+        }
+      ],
+      "volume": 100
+    }
+  ],
+  "folder": "D:\\proyectos\\python\\SimpleMusicStation\\SimpleMusicStation\\projects\\Test_30ca9d69e9"
+}
